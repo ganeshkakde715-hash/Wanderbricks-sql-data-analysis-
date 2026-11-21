@@ -1,4 +1,6 @@
 🏡 **WanderBricks SQL Data Analytics | Real Estate & Property Booking Insights**
+
+
 📌 Table of Contents
 📖 Project Overview
 🎯 Business Objectives
